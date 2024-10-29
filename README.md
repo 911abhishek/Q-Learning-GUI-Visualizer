@@ -27,9 +27,3 @@ An interactive tool for visualizing Q-learning with a customizable reward matrix
    ```bash
    git clone https://github.com/your-username/repo-name.git
    cd repo-name
-
-### Instructions for Adding Images:
-- Replace `path/to/your/screenshot.png` with the relative path to your image file in the repository.
-- You can add multiple images by duplicating the line with the `![Application Screenshot](...)` format and changing the path for each image.
-
-This format allows users to visualize your project and understand its interface or concepts more effectively.
